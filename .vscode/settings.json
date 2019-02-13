@@ -10,5 +10,15 @@
     "titleBar.inactiveForeground": "#000000CC",
     "titleBar.activeBackground": "#a905f5",
     "titleBar.inactiveBackground": "#dcaaf8cc"
+  },
+  "vetur.format.defaultFormatterOptions": {
+    "prettyhtml": {
+      "singleQuote": true
+    },
+    "prettier": {
+      // Prettier option here
+      "semi": true,
+      "singleQuote": true
+    }
   }
 }

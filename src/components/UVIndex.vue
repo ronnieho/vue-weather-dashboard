@@ -1,12 +1,12 @@
 <template>
-  <div id="uvIndex">
+  <div id='uvIndex'>
     <p>UV Index: {{ uvIndex }}</p>
   </div>
 </template>
 
 <script>
 export default {
-  props: ["highlights"],
+  props: ['highlights'],
   data() {
     return {
       uvIndex: this.highlights.uvIndex

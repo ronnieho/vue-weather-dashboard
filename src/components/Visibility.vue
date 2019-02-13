@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  props: ["highlights"],
+  props: ['highlights'],
   data() {
     return {
       visibility: this.highlights.visibility.toString()

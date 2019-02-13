@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  props: ["highlights"],
+  props: ['highlights'],
   data() {
     return {
       windSpeed: this.highlights.windStatus.windSpeed,
