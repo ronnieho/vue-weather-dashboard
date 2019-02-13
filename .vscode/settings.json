@@ -1,0 +1,14 @@
+{
+  "search.exclude": {
+    "**/node_modules": false,
+    "**/bower_components": true
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#000",
+    "titleBar.inactiveForeground": "#000000CC",
+    "titleBar.activeBackground": "#a905f5",
+    "titleBar.inactiveBackground": "#dcaaf8cc"
+  }
+}
