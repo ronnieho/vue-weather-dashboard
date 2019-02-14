@@ -13,7 +13,7 @@
   },
   "vetur.format.defaultFormatterOptions": {
     "prettyhtml": {
-      "singleQuote": true
+      "singleQuote": false
     },
     "prettier": {
       // Prettier option here
